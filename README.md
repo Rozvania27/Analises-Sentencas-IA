@@ -14,8 +14,6 @@ Este projeto tem como objetivo analisar sentenças utilizando uma IA, destacando
 2. Utilizei uma IA para interpretar as frases e trazer insights sobre tom, sentimento e intenção.
 3. Documentei os resultados aqui no repositório.
 
-## 📸 Prints
-
 > 
 ![print-análise](caminho/do/print.png)
 
@@ -34,4 +32,4 @@ Este projeto tem como objetivo analisar sentenças utilizando uma IA, destacando
 ---
 
 ## 📎 Link do projeto
-> 
+> https://github.com/Rozvania27/Analises-Sentencas-IA
